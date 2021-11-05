@@ -1,2 +1,3 @@
 # lingue_signa
-Php class that find and counts words from transcription txt file
+Php class to find and count words from transcription txt file. 
+
